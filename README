@@ -1,0 +1,9 @@
+The Effectiveness of This List 
+
+This list was created to assist in the identification of offensive comments on place reviews of a location-based social networks like Foursquare. It can also be used to detect spam and other forms of abuse.
+
+The List
+
+The list is composed of words or expressions that commonly appear on offensive comments of place reviews.
+You may want to add it to your list of moderation or even edit it by adding new related terms.
+Each line is a regular expression rule and represents an element of the list.
